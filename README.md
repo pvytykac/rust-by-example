@@ -8,3 +8,4 @@ https://rustbyexample.io/hello-world
 6. https://rustbyexample.io/tuples
 7. https://rustbyexample.io/arrays
 8. https://rustbyexample.io/vectors
+9. https://rustbyexample.io/hash-maps
