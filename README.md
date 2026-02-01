@@ -7,3 +7,4 @@ https://rustbyexample.io/hello-world
 5. https://rustbyexample.io/scalar-types
 6. https://rustbyexample.io/tuples
 7. https://rustbyexample.io/arrays
+8. https://rustbyexample.io/vectors
