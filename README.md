@@ -5,3 +5,4 @@ https://rustbyexample.io/hello-world
 3. https://rustbyexample.io/constants
 4. https://rustbyexample.io/enums
 5. https://rustbyexample.io/scalar-types
+6. https://rustbyexample.io/tuples
